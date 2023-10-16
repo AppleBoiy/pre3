@@ -41,4 +41,4 @@ improving the security of the project.
 
 ## License
 
-This security policy is subject to the terms and conditions outlined in the [License](LICENSE) file.
+This security policy is subject to the terms and conditions outlined in the [License](../LICENSE) file.
