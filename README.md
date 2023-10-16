@@ -1,4 +1,4 @@
-**Exciting News Coming Soon! 🔜**
+## **Exciting News Coming Soon! 🔜**
 
 Hey,
 
