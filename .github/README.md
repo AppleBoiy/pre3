@@ -12,3 +12,9 @@ Thanks for being part of this journey with me, and I'm looking forward to reveal
 
 Best,
 CJ
+
+---
+
+Get help: [Post in our discussion board](https://github.com/AppleBoiy/pre3/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
+&copy; 2023 AppleBoiy &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](../LICENSE)
